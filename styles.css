@@ -90,10 +90,11 @@ html, body {
 }
 
 .about-img {
-    float: center;
-    height: 200px;
-    width: 200px;
-    margin: 15px;
+    display: block;
+    height: 400px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 50%;
 }
 
