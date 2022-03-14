@@ -55,7 +55,6 @@ html, body {
     background-size: cover;
     background-image: url("images/header.jpg");
     padding-bottom: 30px;
-    background-blend-mode: multiply;
 }
 
 .name {
@@ -95,7 +94,7 @@ html, body {
     width: 400px;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 .main-foot {
